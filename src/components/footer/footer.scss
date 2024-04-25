@@ -1,0 +1,18 @@
+@import "../../app.scss";
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+    @include tablet {
+        font-size: 20px;
+        margin-top: -5vh;
+    }
+
+    @include mobile {
+        font-size: 10px;
+        margin-top: 160vh;
+    }
+}

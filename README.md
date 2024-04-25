@@ -1,2 +1,4 @@
-# tobe-ttk
-เว็บไซต์ชมรม To Be Number One โรงเรียนเทศบาลท่าโขลง๑
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
